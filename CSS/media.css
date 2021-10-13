@@ -1,0 +1,15 @@
+@media(max-width:1140px)
+{
+   header h1{font-size: 60px;}
+   .footer-name h3{font-size: 15px;}
+   .container{padding-bottom: 50px;}
+}
+
+@media(max-width:900px)
+{
+   .wrapper-footer
+   {
+      flex-wrap: wrap-reverse;
+   }
+   
+}
